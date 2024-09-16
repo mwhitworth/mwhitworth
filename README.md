@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matt, a developer from London.
+I'm Matt, a developer based in Montreal, Canada. I've founded [PureType](https://puretype.ai/), which solves problems around professional developer onboarding and upskilling.
 
 I work mainly in [Elixir](https://elixir-lang.org/) and [Typescript](https://www.typescriptlang.org/), though I have professionally used C++, Perl, Python, R and Terraform in the past.
 
