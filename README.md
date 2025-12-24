@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Matt, a developer based in Montreal, Canada. I'm currently the Head of Product Engineering at [Syncura](https://www.syncura.ai/), and previously founded [PureType](https://puretype.ai/), which solves problems around professional developer onboarding and upskilling, and was the CTO at two previous early stage startups.
+I'm Matt, a developer based in Montreal, Canada. I'm currently a Lead Software Engineer at [Spellbook](https://www.spellbook.legal/), and previously founded [PureType](https://puretype.ai/), which solves problems around professional developer onboarding and upskilling, and was the CTO at two previous early stage startups.
 
 I work mainly in [Elixir](https://elixir-lang.org/) and [Typescript](https://www.typescriptlang.org/), though I have professionally used C++, Perl, Python, R and Terraform in the past.
 
 I help to maintain several open-source projects, including:
-- [reverse_proxy_plug](https://github.com/tallarium/reverse_proxy_plug) - A reverse proxy plug for proxying a request to another URL
+- [reverse_proxy_plug](https://github.com/tallarium/reverse_proxy_plug) and [reverse_proxy_plug_websocket](https://github.com/mwhitworth/reverse_proxy_plug_websocket) - Reverse proxy in Elixir to proxy HTTP and websocket traffic respectively
 - [phoenix_better_table](https://github.com/mwhitworth/phoenix_better_table) - a basic HTML table as a Phoenix Live Component that supports filtering and sorting
 - [relative_datetime](https://github.com/mwhitworth/relative_datetime) - a grammar and parser for specifying relative datetimes in Elixir
 - [percy_client](https://github.com/mwhitworth/percy_client) - an Elixir client for the visual testing and regression service [Percy](https://percy.io/)
